@@ -1,2 +1,2 @@
 # Snake-game
-sanke
+snake
